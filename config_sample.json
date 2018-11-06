@@ -1,0 +1,15 @@
+{
+  "mailSetting" : {
+    "service": "naver",
+    "auth": {
+      "user": "sender@naver.com",
+      "pass": "mailPassword",
+    }
+  },
+  "mqttSetting" : {
+    "host": "zerobell.xyz",
+    "id": "superuser",
+    "pass": "password",
+    "topic": "loginnTopic"
+  },
+}
