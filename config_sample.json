@@ -3,13 +3,13 @@
     "service": "naver",
     "auth": {
       "user": "sender@naver.com",
-      "pass": "mailPassword",
+      "pass": "mailPassword"
     }
   },
   "mqttSetting" : {
-    "host": "zerobell.xyz",
+    "host": "localhost",
     "id": "superuser",
     "pass": "password",
     "topic": "loginnTopic"
-  },
+  }
 }
